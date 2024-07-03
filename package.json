@@ -1,0 +1,16 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A prof. level YouTube Alike Backend Project Learning from Hitesh Sir ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "learning"
+  ],
+  "author": "Arpandev Bhattacharya",
+  "license": "ISC"
+}
